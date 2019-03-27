@@ -80,5 +80,5 @@ Based on my last assignment, the user is hard to search for a button she is look
 User is expected to be familiar in handling a desktop application. User can use mouse and keyboard well enough. The user should know what will they do when 3d modelling (like "I want to make a House so I should make a box, then add a Triangle Prism as Roof, etc"). User understand English well enough. User expected to be 13 years or older for them knowing what to do and familiar with technologies.
 
 ## Part C: Prototypes
-We will work on this part together during the class on **March 22nd, 2019**, 10:00 AM - 12.30 PM. Therefore, prior to the class please complete all the above parts (A & B) beforehand accordingly.
+https://invis.io/YUR8M0LCNK8
 
